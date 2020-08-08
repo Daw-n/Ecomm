@@ -11,7 +11,7 @@ session_start();
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		<title>Online Shopping</title>
+		<title>CasaGracias</title>
 
 		<!-- Google font -->
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
@@ -123,7 +123,7 @@ session_start();
 				<div class="container">
 					
 					<ul class="header-links pull-right">
-						<li><a href="#"><i class="fa fa-inr"></i> INR</a></li>
+						<li><a href="#"><i class="fa fa-inr"></i> PKR</a></li>
 						<li><?php
                              include "db.php";
                             if(isset($_SESSION["uid"])){
@@ -175,7 +175,7 @@ session_start();
 							<div class="header-logo">
 								<a href="#" class="logo">
 								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif">
-                                        Online Shop
+                                        CasaGracias
                                     </font>
 									
 								</a>

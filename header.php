@@ -123,7 +123,7 @@ session_start();
 				<div class="container">
 					
 					<ul class="header-links pull-right">
-						<li><a href="#"><i class="fa fa-inr"></i> PKR</a></li>
+						<li><a href="#">PKR</a></li>
 						<li><?php
                              include "db.php";
                             if(isset($_SESSION["uid"])){

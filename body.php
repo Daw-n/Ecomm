@@ -1,6 +1,6 @@
 
-   <div class="main main-raised">
-        <div class="container mainn-raised" style="width:100%;">
+   <div class="">
+        <div class="" style="width:100%;">
   
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -49,7 +49,7 @@
 
 
 		<!-- SECTION -->
-		<div class="section mainn mainn-raised">
+		<div class="section mainn">
 		
 		
 			<!-- container -->

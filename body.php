@@ -1,6 +1,6 @@
 
-   <div class="">
-        <div class="" style="width:100%;">
+   <div class="main main-raised">
+        <div class="container mainn-raised" style="width:100%;">
   
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -10,25 +10,25 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="img/pic5.jpg" style="width:100%;">
+        <img src="img/banner3.jpg" alt="Los Angeles" style="width:100%;">
         
       </div>
 
       <div class="item">
-        <img src="img/pic2.jpg" style="width:100%;">
+        <img src="img/banner2.jpg" style="width:100%;">
         
       </div>
     
       <div class="item">
-        <img src="img/pic1.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner4.jpg" alt="New York" style="width:100%;">
         
       </div>
       <div class="item">
-        <img src="img/pic6.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner1.jpg" alt="New York" style="width:100%;">
         
       </div>
       <div class="item">
-        <img src="img/pic5.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner3.jpg" alt="New York" style="width:100%;">
         
       </div>
   
@@ -49,7 +49,7 @@
 
 
 		<!-- SECTION -->
-		<div class="section mainn">
+		<div class="section mainn mainn-raised">
 		
 		
 			<!-- container -->
@@ -405,7 +405,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Laptop</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -418,7 +418,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Headset</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -431,7 +431,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Laptop</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -457,7 +457,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Tablet</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -470,7 +470,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Headset</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -483,7 +483,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">laptop</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -498,7 +498,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Phone</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -511,7 +511,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">laptop</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -524,7 +524,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Digital Camera</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -554,7 +554,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Laptop</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -567,7 +567,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Headset</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -580,7 +580,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Laptop</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -595,7 +595,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Tablet</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -609,7 +609,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Headset</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -622,7 +622,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">Laptop</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>

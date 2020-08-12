@@ -160,11 +160,12 @@ ul, ol {
 
 
 .input {
-  height: 40px;
+  height: 35px;
   padding: 0px 15px;
-  border: 1px solid #E4E7ED;
-  background-color: #FFF;
+  border: 1px;
+  background-color: #1b262c;
   width: 100%;
+  color: #f0ece3;
 }
 
 textarea.input {
@@ -227,10 +228,12 @@ textarea.input {
 /*-- Select input --*/
 
 .input-select {
-  padding: 0px 15px;
-  background: #FFF;
-  border: 1px solid #E4E7ED;
+  padding: 0px 0px;
+  background: #1b262c;
+  border: 1px;
   height: 40px;
+  width: 125px;
+  color: saddlebrown;
 }
 
 /*-- checkbox & radio input --*/
@@ -515,7 +518,7 @@ textarea.input {
 
 .header-search form .input-select {
   margin-right: -4px;
-  border-radius: 40px 0px 0px 40px;
+  border-radius: 5px 0px 0px 5px;
 }
 
 .header-search form .input {
@@ -527,15 +530,15 @@ textarea.input {
   height: 40px;
   width: 100px;
  background: #00B4DB;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to bottom, #0083B0, #00B4DB);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to bottom, #0083B0, #00B4DB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(to bottom, #1b262c, #0f4c75);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #1b262c, #0f4c75); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 
 
   color: #FFF;
-  font-weight: 700;
+  font-weight: 500;
   border: none;
-  border-radius: 0px 40px 40px 0px;
+  border-radius: 0px 5px 5px 0px;
 }
 
 /*----------------------------*\

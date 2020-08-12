@@ -1,6 +1,6 @@
 
-   <div class="main main-raised">
-        <div class="container mainn-raised" style="width:100%;">
+   <div class="">
+        <div class="" style="width:100%;">
   
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -9,26 +9,26 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
 
-      <div class="item active">
-        <img src="img/banner3.jpg" alt="Los Angeles" style="width:100%;">
+   <div class="item active">
+        <img src="img/pic5.jpg" style="width:100%;">
         
       </div>
 
       <div class="item">
-        <img src="img/banner2.jpg" style="width:100%;">
+        <img src="img/pic2.jpg" alt="sale special offer" style="width:100%;">
         
       </div>
     
       <div class="item">
-        <img src="img/banner4.jpg" alt="New York" style="width:100%;">
+        <img src="img/pic1.jpg" alt="sale banner" style="width:100%;">
         
       </div>
       <div class="item">
-        <img src="img/banner1.jpg" alt="New York" style="width:100%;">
+        <img src="img/pic6.jpg" alt="mobiles and tablets" style="width:100%;">
         
       </div>
       <div class="item">
-        <img src="img/banner3.jpg" alt="New York" style="width:100%;">
+        <img src="img/pic5.jpg" alt="hemani" style="width:100%;">
         
       </div>
   
@@ -49,7 +49,7 @@
 
 
 		<!-- SECTION -->
-		<div class="section mainn mainn-raised">
+		<div class="section mainn">
 		
 		
 			<!-- container -->
@@ -231,25 +231,25 @@
 							<ul class="hot-deal-countdown">
 								<li>
 									<div>
-										<h3>02</h3>
+										<h3>05</h3>
 										<span>Days</span>
 									</div>
 								</li>
 								<li>
 									<div>
-										<h3>10</h3>
+										<h3>02</h3>
 										<span>Hours</span>
 									</div>
 								</li>
 								<li>
 									<div>
-										<h3>34</h3>
+										<h3>15</h3>
 										<span>Mins</span>
 									</div>
 								</li>
 								<li>
 									<div>
-										<h3>60</h3>
+										<h3>00</h3>
 										<span>Secs</span>
 									</div>
 								</li>

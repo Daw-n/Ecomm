@@ -11,10 +11,11 @@ session_start();
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		<title>CasaGracias</title>
+		<title>CasaGracia</title>
 
 		<!-- Google font -->
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet"> 
 
 		<!-- Bootstrap -->
 		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"/>
@@ -29,7 +30,7 @@ session_start();
 		<!-- Font Awesome Icon -->
 		<link rel="stylesheet" href="css/font-awesome.min.css">
 
-		<!-- Custom stlylesheet -->
+		<!-- Custom stylesheet -->
 		<link type="text/css" rel="stylesheet" href="css/style.css"/>
 		<link type="text/css" rel="stylesheet" href="css/accountbtn.css"/>
 		
@@ -121,7 +122,7 @@ session_start();
 				<div class="container">
 					
 					<ul class="header-links pull-right">
-						<li><a href="#">PKR</a></li>
+						<li><a href="#"></i> PKR</a></li>
 						<li><?php
                              include "db.php";
                             if(isset($_SESSION["uid"])){
@@ -172,8 +173,8 @@ session_start();
 						<div class="col-md-3">
 							<div class="header-logo">
 								<a href="#" class="logo">
-								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif">
-                                        CasaGracias
+								<font style="font-style:normal; font-size: 50px;color: aliceblue;font-family: 'Dancing Script', cursive;">
+                                        CasaGracia
                                     </font>
 									
 								</a>

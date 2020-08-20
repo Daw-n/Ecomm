@@ -393,8 +393,7 @@ include "header.php";
 										</div>
 										<!-- /Reviews -->
 
-										<!--
-										Review Form 
+										<!-- Review Form -->
 										<div class="col-md-3 mainn">
 											<div id="review-form">
 												<form class="review-form">
@@ -415,8 +414,7 @@ include "header.php";
 												</form>
 											</div>
 										</div>
-										/Review Form 
-										-->
+										<!-- /Review Form -->
 									</div>
 								</div>
 								<!-- /tab3  -->

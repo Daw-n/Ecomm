@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: #00B4DB;
+  color: #bbe1fa;
   font-weight: 500;
   -webkit-transition: 0.2s color;
   transition: 0.2s color;
@@ -229,7 +229,7 @@ textarea.input {
 
 .input-select {
   padding: 0px 0px;
-  background: #e8ded2;
+  background: #1b262c;
   border: 1px;
   height: 35px;
   width: 125px;
